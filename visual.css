@@ -1,0 +1,28 @@
+body{
+	font-family: "courier", lucida, monospace;
+	color: black;
+	text-align: center;
+	background-image: url("img/fondo1.png");
+}
+h1{
+	font-size: 30px;
+	color: black;
+}
+h2{
+	text-decoration: none;
+	color: red;
+}
+h3{
+	text-decoration: none;
+	color: grey;
+}
+img{
+	height: 200px;
+	width: 50%;
+	background-color: powderblue;
+}
+p{
+	align="justify";
+	padding-left: 2em; 
+	padding-right: 2em;
+}
